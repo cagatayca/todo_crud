@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Click the Demo](https://cagatayca.github.io/todo_crud).
 
 ## Available Scripts
 

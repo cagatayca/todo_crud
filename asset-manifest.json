@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo_crud/static/css/main.3c7db24c.css",
+    "main.js": "/todo_crud/static/js/main.f78e5df5.js",
+    "static/media/11.jpg": "/todo_crud/static/media/11.7a37b004a9c6744b4e57.jpg",
+    "index.html": "/todo_crud/index.html",
+    "main.3c7db24c.css.map": "/todo_crud/static/css/main.3c7db24c.css.map",
+    "main.f78e5df5.js.map": "/todo_crud/static/js/main.f78e5df5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7db24c.css",
+    "static/js/main.f78e5df5.js"
+  ]
+}
